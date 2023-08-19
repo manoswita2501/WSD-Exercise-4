@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="shopping.dtd" type="application/xml-dtd"?>
+<?xml-model href="shopping.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<products>
+    <product id="p0011">
+      <name>Laptop</name>
+      <price>78000</price>
+      <quantity>50</quantity>
+      <category>Electronics</category>
+    </product>
+    <product id="p0012">
+      <name>Desktop</name>
+      <price>60000</price>
+      <quantity>50</quantity>
+      <category>Electronics</category>
+    </product>
+    <product id="p0021">
+      <name>T-shirt</name>
+      <price>500</price>
+      <quantity>200</quantity>
+      <category>Clothing</category>
+    </product>
+    <product id="p0022">
+      <name>Jeans</name>
+      <price>800</price>
+      <quantity>150</quantity>
+      <category>Clothing</category>
+    </product>
+    <product id="p0031">
+      <name>Book</name>
+      <price>200</price>
+      <quantity>1000</quantity>
+      <category>Books</category>
+    </product>
+    <product id="p0032">
+      <name>Notebook</name>
+      <price>50</price>
+      <quantity>500</quantity>
+      <category>Books</category>
+    </product>
+  </products>
